@@ -5,11 +5,6 @@
         "homepage": "",
         "license": "",
         "features": {
-            "id": {
-                "dtype": "int64", 
-                "id": null, 
-                "_type": "Value"
-            },
             "tokens": {
                 "feature": {
                     "dtype": "string",
